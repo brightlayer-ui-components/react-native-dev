@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/main.881eb32a310f4e1fb702.bundle.js",
+    "main.js.map": "/main.881eb32a310f4e1fb702.bundle.js.map",
+    "runtime~main.js": "/runtime~main.881eb32a310f4e1fb702.bundle.js",
+    "runtime~main.js.map": "/runtime~main.881eb32a310f4e1fb702.bundle.js.map",
+    "vendors~main.css": "/vendors~main.css",
+    "vendors~main.js": "/vendors~main.881eb32a310f4e1fb702.bundle.js",
+    "vendors~main.css.map": "/vendors~main.css.map",
+    "vendors~main.js.map": "/vendors~main.881eb32a310f4e1fb702.bundle.js.map",
+    "iframe.html": "/iframe.html",
+    "precache-manifest.7f306b0e70869c4886f7caffeffff630.js": "/precache-manifest.7f306b0e70869c4886f7caffeffff630.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/circles-bg.svg": "/static/media/circles-bg.0bdac9a5.svg",
+    "static/media/index.css": "/static/media/open-sans-latin-800italic.79b58175.woff",
+    "static/media/pxb-icon.svg": "/static/media/pxb-icon.c26b974a.svg",
+    "static/media/pxblue.svg": "/static/media/pxblue.d5fa6462.svg",
+    "vendors~main.881eb32a310f4e1fb702.bundle.js.LICENSE": "/vendors~main.881eb32a310f4e1fb702.bundle.js.LICENSE"
+  },
+  "entrypoints": [
+    "runtime~main.881eb32a310f4e1fb702.bundle.js",
+    "static/css/vendors~main.b77cbcde.chunk.css",
+    "vendors~main.css",
+    "vendors~main.881eb32a310f4e1fb702.bundle.js",
+    "main.881eb32a310f4e1fb702.bundle.js"
+  ]
+}
