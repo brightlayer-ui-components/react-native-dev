@@ -1,21 +1,45 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e76f946b2e56e9b41a44dfefeab3a6fe",
+    "revision": "da58fb442397760e0e7cc3a78b12cc25",
     "url": "iframe.html"
   },
   {
-    "url": "main.49f350c57b3b6b09ec4f.bundle.js"
+    "url": "main.ffe2e9029e15b677cd1f.bundle.js"
   },
   {
-    "url": "runtime~main.49f350c57b3b6b09ec4f.bundle.js"
+    "url": "runtime~main.ffe2e9029e15b677cd1f.bundle.js"
   },
   {
-    "revision": "d5f8c5575941a78ac753",
+    "revision": "451c85a71f6c61716f4a",
     "url": "static/css/vendors~main.5a8a6b15.chunk.css"
+  },
+  {
+    "revision": "c84086af70f7c290fcb394fae3240956",
+    "url": "static/media/channelValue.c84086af.png"
   },
   {
     "revision": "0bdac9a50c83431134629607e7749a5e",
     "url": "static/media/circles-bg.0bdac9a5.svg"
+  },
+  {
+    "revision": "d3a96eba7f118012da9a4e2cc73905a8",
+    "url": "static/media/emptyState.d3a96eba.png"
+  },
+  {
+    "revision": "e211227c0b6f2c5b10e7cbaa2019b10c",
+    "url": "static/media/header_large.e211227c.png"
+  },
+  {
+    "revision": "66ecd4fddae202b1e0636045752ee639",
+    "url": "static/media/header_small.66ecd4fd.png"
+  },
+  {
+    "revision": "b0ba02dc5167ba0d6fddf5a4b0230513",
+    "url": "static/media/hero.b0ba02dc.png"
+  },
+  {
+    "revision": "20db400d34b3b4295bfd5c944384d513",
+    "url": "static/media/infoListItem.20db400d.png"
   },
   {
     "revision": "24f7b0944e9e03a905f9d7701573b2cd",
@@ -106,13 +130,25 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/media/pxblue react native.c4092748.svg"
   },
   {
-    "url": "vendors~main.49f350c57b3b6b09ec4f.bundle.js"
+    "revision": "832b45500312c6fb2822704df40d925f",
+    "url": "static/media/scorecard.832b4550.png"
   },
   {
-    "url": "vendors~main.49f350c57b3b6b09ec4f.bundle.js.LICENSE"
+    "revision": "8f5c5025c407d5365fbe5b8c542bdac2",
+    "url": "static/media/scorecard_alt.8f5c5025.png"
   },
   {
-    "revision": "d5f8c5575941a78ac753",
+    "revision": "5fddc0242851dabc7912ca1a051c156d",
+    "url": "static/media/typography.5fddc024.png"
+  },
+  {
+    "revision": "451c85a71f6c61716f4a",
     "url": "vendors~main.css"
+  },
+  {
+    "url": "vendors~main.ffe2e9029e15b677cd1f.bundle.js"
+  },
+  {
+    "url": "vendors~main.ffe2e9029e15b677cd1f.bundle.js.LICENSE"
   }
 ]);
