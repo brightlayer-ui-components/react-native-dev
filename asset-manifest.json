@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/main.71dcf49384a2416c477c.bundle.js",
-    "main.js.map": "/main.71dcf49384a2416c477c.bundle.js.map",
-    "runtime~main.js": "/runtime~main.71dcf49384a2416c477c.bundle.js",
-    "runtime~main.js.map": "/runtime~main.71dcf49384a2416c477c.bundle.js.map",
+    "main.js": "/main.1053a4a3395abb5d3fee.bundle.js",
+    "main.js.map": "/main.1053a4a3395abb5d3fee.bundle.js.map",
+    "runtime~main.js": "/runtime~main.1053a4a3395abb5d3fee.bundle.js",
+    "runtime~main.js.map": "/runtime~main.1053a4a3395abb5d3fee.bundle.js.map",
     "vendors~main.css": "/vendors~main.css",
-    "vendors~main.js": "/vendors~main.71dcf49384a2416c477c.bundle.js",
+    "vendors~main.js": "/vendors~main.1053a4a3395abb5d3fee.bundle.js",
     "vendors~main.css.map": "/vendors~main.css.map",
-    "vendors~main.js.map": "/vendors~main.71dcf49384a2416c477c.bundle.js.map",
+    "vendors~main.js.map": "/vendors~main.1053a4a3395abb5d3fee.bundle.js.map",
     "iframe.html": "/iframe.html",
-    "precache-manifest.41f19841188ada6b2b86eb1fda8e0e25.js": "/precache-manifest.41f19841188ada6b2b86eb1fda8e0e25.js",
+    "precache-manifest.b5933985a973d9c18c4bde9265c94f11.js": "/precache-manifest.b5933985a973d9c18c4bde9265c94f11.js",
     "service-worker.js": "/service-worker.js",
     "static/media/channelValue.png": "/static/media/channelValue.c84086af.png",
     "static/media/circles-bg.svg": "/static/media/circles-bg.8d837a68.svg",
@@ -20,17 +20,19 @@
     "static/media/infoListItem.png": "/static/media/infoListItem.20db400d.png",
     "static/media/index.css": "/static/media/open-sans-latin-800italic.c62c3eea.woff2",
     "static/media/pxb-icon.svg": "/static/media/pxb-icon.c26b974a.svg",
-    "static/media/pxblue react native.svg": "/static/media/pxblue react native.c4092748.svg",
+    "static/media/pxblue-react-native-alpha.svg": "/static/media/pxblue-react-native-alpha.437f65ed.svg",
+    "static/media/pxblue-react-native-beta.svg": "/static/media/pxblue-react-native-beta.5b3ee5c0.svg",
+    "static/media/pxblue-react-native.svg": "/static/media/pxblue-react-native.c4092748.svg",
     "static/media/scorecard.png": "/static/media/scorecard.832b4550.png",
     "static/media/scorecard_alt.png": "/static/media/scorecard_alt.8f5c5025.png",
     "static/media/typography.png": "/static/media/typography.5fddc024.png",
-    "vendors~main.71dcf49384a2416c477c.bundle.js.LICENSE": "/vendors~main.71dcf49384a2416c477c.bundle.js.LICENSE"
+    "vendors~main.1053a4a3395abb5d3fee.bundle.js.LICENSE": "/vendors~main.1053a4a3395abb5d3fee.bundle.js.LICENSE"
   },
   "entrypoints": [
-    "runtime~main.71dcf49384a2416c477c.bundle.js",
+    "runtime~main.1053a4a3395abb5d3fee.bundle.js",
     "static/css/vendors~main.5a8a6b15.chunk.css",
     "vendors~main.css",
-    "vendors~main.71dcf49384a2416c477c.bundle.js",
-    "main.71dcf49384a2416c477c.bundle.js"
+    "vendors~main.1053a4a3395abb5d3fee.bundle.js",
+    "main.1053a4a3395abb5d3fee.bundle.js"
   ]
 }
