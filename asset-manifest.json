@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.js": "/main.65e5f3f77a8ec5edc176.bundle.js",
-    "main.js.map": "/main.65e5f3f77a8ec5edc176.bundle.js.map",
-    "runtime~main.js": "/runtime~main.65e5f3f77a8ec5edc176.bundle.js",
-    "runtime~main.js.map": "/runtime~main.65e5f3f77a8ec5edc176.bundle.js.map",
+    "main.js": "/main.0d8b095e3a2f769607b8.bundle.js",
+    "main.js.map": "/main.0d8b095e3a2f769607b8.bundle.js.map",
+    "runtime~main.js": "/runtime~main.0d8b095e3a2f769607b8.bundle.js",
+    "runtime~main.js.map": "/runtime~main.0d8b095e3a2f769607b8.bundle.js.map",
     "vendors~main.css": "/vendors~main.css",
-    "vendors~main.js": "/vendors~main.65e5f3f77a8ec5edc176.bundle.js",
+    "vendors~main.js": "/vendors~main.0d8b095e3a2f769607b8.bundle.js",
     "vendors~main.css.map": "/vendors~main.css.map",
-    "vendors~main.js.map": "/vendors~main.65e5f3f77a8ec5edc176.bundle.js.map",
+    "vendors~main.js.map": "/vendors~main.0d8b095e3a2f769607b8.bundle.js.map",
     "iframe.html": "/iframe.html",
-    "precache-manifest.96d7f41e170e47f927c86411445f258b.js": "/precache-manifest.96d7f41e170e47f927c86411445f258b.js",
+    "precache-manifest.50c62b6632ad825718ae4ad4c22f72da.js": "/precache-manifest.50c62b6632ad825718ae4ad4c22f72da.js",
     "service-worker.js": "/service-worker.js",
+    "static/media/ListItemTagInInfoListItem.png": "/static/media/ListItemTagInInfoListItem.aa1fca70.png",
     "static/media/channelValue.png": "/static/media/channelValue.c84086af.png",
     "static/media/circles-bg.svg": "/static/media/circles-bg.8d837a68.svg",
     "static/media/emptyState.png": "/static/media/emptyState.d3a96eba.png",
@@ -18,6 +19,7 @@
     "static/media/header_small.png": "/static/media/header_small.66ecd4fd.png",
     "static/media/hero.png": "/static/media/hero.b0ba02dc.png",
     "static/media/infoListItem.png": "/static/media/infoListItem.20db400d.png",
+    "static/media/listItemTag.png": "/static/media/listItemTag.185ee093.png",
     "static/media/index.css": "/static/media/open-sans-latin-800italic.c62c3eea.woff2",
     "static/media/pxb-icon.svg": "/static/media/pxb-icon.c26b974a.svg",
     "static/media/pxblue-react-native-alpha.svg": "/static/media/pxblue-react-native-alpha.437f65ed.svg",
@@ -26,13 +28,13 @@
     "static/media/scorecard.png": "/static/media/scorecard.832b4550.png",
     "static/media/scorecard_alt.png": "/static/media/scorecard_alt.8f5c5025.png",
     "static/media/typography.png": "/static/media/typography.67c22530.png",
-    "vendors~main.65e5f3f77a8ec5edc176.bundle.js.LICENSE.txt": "/vendors~main.65e5f3f77a8ec5edc176.bundle.js.LICENSE.txt"
+    "vendors~main.0d8b095e3a2f769607b8.bundle.js.LICENSE.txt": "/vendors~main.0d8b095e3a2f769607b8.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.65e5f3f77a8ec5edc176.bundle.js",
+    "runtime~main.0d8b095e3a2f769607b8.bundle.js",
     "static/css/vendors~main.5a8a6b15.chunk.css",
     "vendors~main.css",
-    "vendors~main.65e5f3f77a8ec5edc176.bundle.js",
-    "main.65e5f3f77a8ec5edc176.bundle.js"
+    "vendors~main.0d8b095e3a2f769607b8.bundle.js",
+    "main.0d8b095e3a2f769607b8.bundle.js"
   ]
 }
