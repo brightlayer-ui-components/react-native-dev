@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/main.f84f7baf0c1c26d0d8bc.bundle.js",
-    "main.js.map": "/main.f84f7baf0c1c26d0d8bc.bundle.js.map",
-    "runtime~main.js": "/runtime~main.f84f7baf0c1c26d0d8bc.bundle.js",
-    "runtime~main.js.map": "/runtime~main.f84f7baf0c1c26d0d8bc.bundle.js.map",
+    "main.js": "/main.ab07981baf57992456a3.bundle.js",
+    "main.js.map": "/main.ab07981baf57992456a3.bundle.js.map",
+    "runtime~main.js": "/runtime~main.ab07981baf57992456a3.bundle.js",
+    "runtime~main.js.map": "/runtime~main.ab07981baf57992456a3.bundle.js.map",
     "vendors~main.css": "/vendors~main.css",
-    "vendors~main.js": "/vendors~main.f84f7baf0c1c26d0d8bc.bundle.js",
+    "vendors~main.js": "/vendors~main.ab07981baf57992456a3.bundle.js",
     "vendors~main.css.map": "/vendors~main.css.map",
-    "vendors~main.js.map": "/vendors~main.f84f7baf0c1c26d0d8bc.bundle.js.map",
+    "vendors~main.js.map": "/vendors~main.ab07981baf57992456a3.bundle.js.map",
     "iframe.html": "/iframe.html",
-    "precache-manifest.51d377452f19826e8075c57a3f837f42.js": "/precache-manifest.51d377452f19826e8075c57a3f837f42.js",
+    "precache-manifest.abe1ec676c19169fc4479cb397453dbb.js": "/precache-manifest.abe1ec676c19169fc4479cb397453dbb.js",
     "service-worker.js": "/service-worker.js",
     "static/media/ListItemTagInInfoListItem.png": "/static/media/ListItemTagInInfoListItem.aa1fca70.png",
     "static/media/channelValue.png": "/static/media/channelValue.c84086af.png",
@@ -21,7 +21,16 @@
     "static/media/infoListItem.png": "/static/media/infoListItem.20db400d.png",
     "static/media/listItemTag.png": "/static/media/listItemTag.185ee093.png",
     "static/media/mobileStepper.png": "/static/media/mobileStepper.cc9cd6ef.png",
-    "static/media/index.css": "/static/media/open-sans-latin-800italic.c62c3eea.woff2",
+    "static/media/300-italic.css": "/static/media/open-sans-vietnamese-300-italic.185c988d.woff2",
+    "static/media/300.css": "/static/media/open-sans-vietnamese-300-normal.e5565c92.woff2",
+    "static/media/400-italic.css": "/static/media/open-sans-vietnamese-400-italic.1dc667c0.woff2",
+    "static/media/400.css": "/static/media/open-sans-vietnamese-400-normal.eafec10d.woff2",
+    "static/media/600-italic.css": "/static/media/open-sans-vietnamese-600-italic.42f81722.woff2",
+    "static/media/600.css": "/static/media/open-sans-vietnamese-600-normal.3cb1ef2e.woff2",
+    "static/media/700-italic.css": "/static/media/open-sans-vietnamese-700-italic.ef9a4320.woff2",
+    "static/media/700.css": "/static/media/open-sans-vietnamese-700-normal.36ae0534.woff2",
+    "static/media/800-italic.css": "/static/media/open-sans-vietnamese-800-italic.3864fcf9.woff2",
+    "static/media/800.css": "/static/media/open-sans-vietnamese-800-normal.a312f439.woff2",
     "static/media/pxb-icon.svg": "/static/media/pxb-icon.c26b974a.svg",
     "static/media/pxblue-react-native-alpha.svg": "/static/media/pxblue-react-native-alpha.437f65ed.svg",
     "static/media/pxblue-react-native-beta.svg": "/static/media/pxblue-react-native-beta.5b3ee5c0.svg",
@@ -32,13 +41,13 @@
     "static/media/typography.png": "/static/media/typography.67c22530.png",
     "static/media/userMenuAvatar.png": "/static/media/userMenuAvatar.fc5e0abd.png",
     "static/media/userMenuOpened.png": "/static/media/userMenuOpened.67b2052f.png",
-    "vendors~main.f84f7baf0c1c26d0d8bc.bundle.js.LICENSE.txt": "/vendors~main.f84f7baf0c1c26d0d8bc.bundle.js.LICENSE.txt"
+    "vendors~main.ab07981baf57992456a3.bundle.js.LICENSE.txt": "/vendors~main.ab07981baf57992456a3.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.f84f7baf0c1c26d0d8bc.bundle.js",
-    "static/css/vendors~main.5a8a6b15.chunk.css",
+    "runtime~main.ab07981baf57992456a3.bundle.js",
+    "static/css/vendors~main.3eac556c.chunk.css",
     "vendors~main.css",
-    "vendors~main.f84f7baf0c1c26d0d8bc.bundle.js",
-    "main.f84f7baf0c1c26d0d8bc.bundle.js"
+    "vendors~main.ab07981baf57992456a3.bundle.js",
+    "main.ab07981baf57992456a3.bundle.js"
   ]
 }
