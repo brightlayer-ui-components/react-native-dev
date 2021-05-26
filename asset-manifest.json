@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/main.f5a190b1917926362611.bundle.js",
-    "main.js.map": "/main.f5a190b1917926362611.bundle.js.map",
-    "runtime~main.js": "/runtime~main.f5a190b1917926362611.bundle.js",
-    "runtime~main.js.map": "/runtime~main.f5a190b1917926362611.bundle.js.map",
+    "main.js": "/main.f497ac22f81b22341a9a.bundle.js",
+    "main.js.map": "/main.f497ac22f81b22341a9a.bundle.js.map",
+    "runtime~main.js": "/runtime~main.f497ac22f81b22341a9a.bundle.js",
+    "runtime~main.js.map": "/runtime~main.f497ac22f81b22341a9a.bundle.js.map",
     "vendors~main.css": "/vendors~main.css",
-    "vendors~main.js": "/vendors~main.f5a190b1917926362611.bundle.js",
+    "vendors~main.js": "/vendors~main.f497ac22f81b22341a9a.bundle.js",
     "vendors~main.css.map": "/vendors~main.css.map",
-    "vendors~main.js.map": "/vendors~main.f5a190b1917926362611.bundle.js.map",
+    "vendors~main.js.map": "/vendors~main.f497ac22f81b22341a9a.bundle.js.map",
     "iframe.html": "/iframe.html",
-    "precache-manifest.bbf5a075c8e0f41e5371b2d7e5d87215.js": "/precache-manifest.bbf5a075c8e0f41e5371b2d7e5d87215.js",
+    "precache-manifest.69c7d6b8f3cd7beb1864d9053c1c0aac.js": "/precache-manifest.69c7d6b8f3cd7beb1864d9053c1c0aac.js",
     "service-worker.js": "/service-worker.js",
     "static/media/ListItemTagInInfoListItem.png": "/static/media/ListItemTagInInfoListItem.aa1fca70.png",
     "static/media/channelValue.png": "/static/media/channelValue.c84086af.png",
@@ -41,13 +41,13 @@
     "static/media/typography.png": "/static/media/typography.67c22530.png",
     "static/media/userMenuAvatar.png": "/static/media/userMenuAvatar.fc5e0abd.png",
     "static/media/userMenuOpened.png": "/static/media/userMenuOpened.67b2052f.png",
-    "vendors~main.f5a190b1917926362611.bundle.js.LICENSE.txt": "/vendors~main.f5a190b1917926362611.bundle.js.LICENSE.txt"
+    "vendors~main.f497ac22f81b22341a9a.bundle.js.LICENSE.txt": "/vendors~main.f497ac22f81b22341a9a.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.f5a190b1917926362611.bundle.js",
+    "runtime~main.f497ac22f81b22341a9a.bundle.js",
     "static/css/vendors~main.3eac556c.chunk.css",
     "vendors~main.css",
-    "vendors~main.f5a190b1917926362611.bundle.js",
-    "main.f5a190b1917926362611.bundle.js"
+    "vendors~main.f497ac22f81b22341a9a.bundle.js",
+    "main.f497ac22f81b22341a9a.bundle.js"
   ]
 }
