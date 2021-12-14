@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/main.6898783eb56f41e52d8d.bundle.js",
-    "main.js.map": "/main.6898783eb56f41e52d8d.bundle.js.map",
-    "runtime~main.js": "/runtime~main.6898783eb56f41e52d8d.bundle.js",
-    "runtime~main.js.map": "/runtime~main.6898783eb56f41e52d8d.bundle.js.map",
+    "main.js": "/main.cd6905cabb7eb1f3f099.bundle.js",
+    "main.js.map": "/main.cd6905cabb7eb1f3f099.bundle.js.map",
+    "runtime~main.js": "/runtime~main.cd6905cabb7eb1f3f099.bundle.js",
+    "runtime~main.js.map": "/runtime~main.cd6905cabb7eb1f3f099.bundle.js.map",
     "vendors~main.css": "/vendors~main.css",
-    "vendors~main.js": "/vendors~main.6898783eb56f41e52d8d.bundle.js",
+    "vendors~main.js": "/vendors~main.cd6905cabb7eb1f3f099.bundle.js",
     "vendors~main.css.map": "/vendors~main.css.map",
-    "vendors~main.js.map": "/vendors~main.6898783eb56f41e52d8d.bundle.js.map",
+    "vendors~main.js.map": "/vendors~main.cd6905cabb7eb1f3f099.bundle.js.map",
     "iframe.html": "/iframe.html",
-    "precache-manifest.30e898a3c310c79c08b480e2e344f135.js": "/precache-manifest.30e898a3c310c79c08b480e2e344f135.js",
+    "precache-manifest.885341cb9f9abf96ba1a5671dbdd46b6.js": "/precache-manifest.885341cb9f9abf96ba1a5671dbdd46b6.js",
     "service-worker.js": "/service-worker.js",
     "static/media/ListItemTagInInfoListItem.png": "/static/media/ListItemTagInInfoListItem.aa1fca70.png",
     "static/media/channelValue.png": "/static/media/channelValue.c84086af.png",
@@ -40,15 +40,15 @@
     "static/media/scorecard_alt.png": "/static/media/scorecard_alt.8f5c5025.png",
     "static/media/spacer.png": "/static/media/spacer.f1e38d99.png",
     "static/media/typography.png": "/static/media/typography.67c22530.png",
-    "static/media/userMenuAvatar.png": "/static/media/userMenuAvatar.fc5e0abd.png",
-    "static/media/userMenuOpened.png": "/static/media/userMenuOpened.67b2052f.png",
-    "vendors~main.6898783eb56f41e52d8d.bundle.js.LICENSE.txt": "/vendors~main.6898783eb56f41e52d8d.bundle.js.LICENSE.txt"
+    "static/media/userMenuAvatar.png": "/static/media/userMenuAvatar.b588f2b9.png",
+    "static/media/userMenuOpened.png": "/static/media/userMenuOpened.872c9b26.png",
+    "vendors~main.cd6905cabb7eb1f3f099.bundle.js.LICENSE.txt": "/vendors~main.cd6905cabb7eb1f3f099.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.6898783eb56f41e52d8d.bundle.js",
+    "runtime~main.cd6905cabb7eb1f3f099.bundle.js",
     "static/css/vendors~main.3eac556c.chunk.css",
     "vendors~main.css",
-    "vendors~main.6898783eb56f41e52d8d.bundle.js",
-    "main.6898783eb56f41e52d8d.bundle.js"
+    "vendors~main.cd6905cabb7eb1f3f099.bundle.js",
+    "main.cd6905cabb7eb1f3f099.bundle.js"
   ]
 }
