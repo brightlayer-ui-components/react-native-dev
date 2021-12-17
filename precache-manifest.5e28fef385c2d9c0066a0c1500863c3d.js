@@ -1,21 +1,37 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4aaa4c97a0dcef9439ce87b83ee6004d",
+    "revision": "36789a89e378a4683af7627be2421641",
     "url": "iframe.html"
   },
   {
-    "url": "main.cd6905cabb7eb1f3f099.bundle.js"
+    "url": "main.25674e33b0f57d1c8a00.bundle.js"
   },
   {
-    "url": "runtime~main.cd6905cabb7eb1f3f099.bundle.js"
+    "url": "runtime~main.25674e33b0f57d1c8a00.bundle.js"
   },
   {
-    "revision": "548fbe901d3da5ada881",
+    "revision": "4b8dbb8886f0040e747c",
     "url": "static/css/vendors~main.3eac556c.chunk.css"
   },
   {
     "revision": "aa1fca7083105c585206bbffc534e868",
     "url": "static/media/ListItemTagInInfoListItem.aa1fca70.png"
+  },
+  {
+    "revision": "c26b974a90d11b250872a0561f19d553",
+    "url": "static/media/brightlayer-ui-icon.c26b974a.svg"
+  },
+  {
+    "revision": "f814f3408692dc5834fb5abb136f283c",
+    "url": "static/media/brightlayer-ui-react-native-alpha.f814f340.svg"
+  },
+  {
+    "revision": "e857df72de267696760e6e476b10e790",
+    "url": "static/media/brightlayer-ui-react-native-beta.e857df72.svg"
+  },
+  {
+    "revision": "2ebe8ce052a3e18f4e7f804a274dba24",
+    "url": "static/media/brightlayer-ui-react-native.2ebe8ce0.svg"
   },
   {
     "revision": "c84086af70f7c290fcb394fae3240956",
@@ -378,22 +394,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/media/open-sans-vietnamese-800-normal.a312f439.woff2"
   },
   {
-    "revision": "c26b974a90d11b250872a0561f19d553",
-    "url": "static/media/pxb-icon.c26b974a.svg"
-  },
-  {
-    "revision": "437f65ed964e761b12e9772fb1fb6e3a",
-    "url": "static/media/pxblue-react-native-alpha.437f65ed.svg"
-  },
-  {
-    "revision": "5b3ee5c06685cd92e34a19deff0a90de",
-    "url": "static/media/pxblue-react-native-beta.5b3ee5c0.svg"
-  },
-  {
-    "revision": "c40927484117e358aff2d9e4ed28833c",
-    "url": "static/media/pxblue-react-native.c4092748.svg"
-  },
-  {
     "revision": "832b45500312c6fb2822704df40d925f",
     "url": "static/media/scorecard.832b4550.png"
   },
@@ -418,13 +418,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/media/userMenuOpened.872c9b26.png"
   },
   {
-    "url": "vendors~main.cd6905cabb7eb1f3f099.bundle.js"
+    "url": "vendors~main.25674e33b0f57d1c8a00.bundle.js"
   },
   {
-    "url": "vendors~main.cd6905cabb7eb1f3f099.bundle.js.LICENSE.txt"
+    "url": "vendors~main.25674e33b0f57d1c8a00.bundle.js.LICENSE.txt"
   },
   {
-    "revision": "548fbe901d3da5ada881",
+    "revision": "4b8dbb8886f0040e747c",
     "url": "vendors~main.css"
   }
 ]);

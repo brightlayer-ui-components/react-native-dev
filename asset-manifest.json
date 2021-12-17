@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.js": "/main.cd6905cabb7eb1f3f099.bundle.js",
-    "main.js.map": "/main.cd6905cabb7eb1f3f099.bundle.js.map",
-    "runtime~main.js": "/runtime~main.cd6905cabb7eb1f3f099.bundle.js",
-    "runtime~main.js.map": "/runtime~main.cd6905cabb7eb1f3f099.bundle.js.map",
+    "main.js": "/main.25674e33b0f57d1c8a00.bundle.js",
+    "main.js.map": "/main.25674e33b0f57d1c8a00.bundle.js.map",
+    "runtime~main.js": "/runtime~main.25674e33b0f57d1c8a00.bundle.js",
+    "runtime~main.js.map": "/runtime~main.25674e33b0f57d1c8a00.bundle.js.map",
     "vendors~main.css": "/vendors~main.css",
-    "vendors~main.js": "/vendors~main.cd6905cabb7eb1f3f099.bundle.js",
+    "vendors~main.js": "/vendors~main.25674e33b0f57d1c8a00.bundle.js",
     "vendors~main.css.map": "/vendors~main.css.map",
-    "vendors~main.js.map": "/vendors~main.cd6905cabb7eb1f3f099.bundle.js.map",
+    "vendors~main.js.map": "/vendors~main.25674e33b0f57d1c8a00.bundle.js.map",
     "iframe.html": "/iframe.html",
-    "precache-manifest.885341cb9f9abf96ba1a5671dbdd46b6.js": "/precache-manifest.885341cb9f9abf96ba1a5671dbdd46b6.js",
+    "precache-manifest.5e28fef385c2d9c0066a0c1500863c3d.js": "/precache-manifest.5e28fef385c2d9c0066a0c1500863c3d.js",
     "service-worker.js": "/service-worker.js",
     "static/media/ListItemTagInInfoListItem.png": "/static/media/ListItemTagInInfoListItem.aa1fca70.png",
+    "static/media/brightlayer-ui-icon.svg": "/static/media/brightlayer-ui-icon.c26b974a.svg",
+    "static/media/brightlayer-ui-react-native-alpha.svg": "/static/media/brightlayer-ui-react-native-alpha.f814f340.svg",
+    "static/media/brightlayer-ui-react-native-beta.svg": "/static/media/brightlayer-ui-react-native-beta.e857df72.svg",
+    "static/media/brightlayer-ui-react-native.svg": "/static/media/brightlayer-ui-react-native.2ebe8ce0.svg",
     "static/media/channelValue.png": "/static/media/channelValue.c84086af.png",
     "static/media/circles-bg.svg": "/static/media/circles-bg.8d837a68.svg",
     "static/media/collapsibleHeaderLayout.gif": "/static/media/collapsibleHeaderLayout.4e39c415.gif",
@@ -32,23 +36,19 @@
     "static/media/700.css": "/static/media/open-sans-vietnamese-700-normal.36ae0534.woff2",
     "static/media/800-italic.css": "/static/media/open-sans-vietnamese-800-italic.3864fcf9.woff2",
     "static/media/800.css": "/static/media/open-sans-vietnamese-800-normal.a312f439.woff2",
-    "static/media/pxb-icon.svg": "/static/media/pxb-icon.c26b974a.svg",
-    "static/media/pxblue-react-native-alpha.svg": "/static/media/pxblue-react-native-alpha.437f65ed.svg",
-    "static/media/pxblue-react-native-beta.svg": "/static/media/pxblue-react-native-beta.5b3ee5c0.svg",
-    "static/media/pxblue-react-native.svg": "/static/media/pxblue-react-native.c4092748.svg",
     "static/media/scorecard.png": "/static/media/scorecard.832b4550.png",
     "static/media/scorecard_alt.png": "/static/media/scorecard_alt.8f5c5025.png",
     "static/media/spacer.png": "/static/media/spacer.f1e38d99.png",
     "static/media/typography.png": "/static/media/typography.67c22530.png",
     "static/media/userMenuAvatar.png": "/static/media/userMenuAvatar.b588f2b9.png",
     "static/media/userMenuOpened.png": "/static/media/userMenuOpened.872c9b26.png",
-    "vendors~main.cd6905cabb7eb1f3f099.bundle.js.LICENSE.txt": "/vendors~main.cd6905cabb7eb1f3f099.bundle.js.LICENSE.txt"
+    "vendors~main.25674e33b0f57d1c8a00.bundle.js.LICENSE.txt": "/vendors~main.25674e33b0f57d1c8a00.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.cd6905cabb7eb1f3f099.bundle.js",
+    "runtime~main.25674e33b0f57d1c8a00.bundle.js",
     "static/css/vendors~main.3eac556c.chunk.css",
     "vendors~main.css",
-    "vendors~main.cd6905cabb7eb1f3f099.bundle.js",
-    "main.cd6905cabb7eb1f3f099.bundle.js"
+    "vendors~main.25674e33b0f57d1c8a00.bundle.js",
+    "main.25674e33b0f57d1c8a00.bundle.js"
   ]
 }
