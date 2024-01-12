@@ -20,24 +20,27 @@ import { EmptyState } from '@brightlayer-ui/react-native-components';
 
 <div style="overflow: auto">
 
-| Prop Name   | Description                                    | Type                                   | Required | Default |
-| ----------- | ---------------------------------------------- | -------------------------------------- | -------- | ------- |
-| title       | The primary text to display (first line)       | `string`                               | yes      |         |
-| description | The secondary text to display (second line)    | `string`                               | no       |         |
-| icon        | A component to render for the primary icon     | [`IconSource`](./Icons.md)             | no       |         |
-| iconSize    | The size of the primary icon (100-200)         | `number`                               | no       | 100     |
-| iconColor   | The color of the primary icon                  | `string`                               | no       | `text`  |
-| actions     | Additional components to render below the text | `JSX.Element`                          | no       |         |
-| theme       | Theme value overrides                          | `$DeepPartial<ReactNativePaper.Theme>` | no       |         |
+| Prop Name   | Description                                    | Type                          | Required | Default                 |
+| ----------- | ---------------------------------------------- | ----------------------------- | -------- | ----------------------- |
+| title       | The primary text to display (first line)       | `string`                      | yes      |                         |
+| description | The secondary text to display (second line)    | `string`                      | no       |                         |
+| icon        | A component to render for the primary icon     | [`IconSource`](./Icons.md)    | no       |                         |
+| iconSize    | The size of the primary icon (100-200)         | `number`                      | no       | 100                     |
+| iconColor   | The color of the primary icon                  | `string`                      | no       | `theme.colors.disabled` |
+| actions     | Additional components to render below the text | `JSX.Element`                 | no       |                         |
+| theme       | Theme value overrides                          | `$DeepPartial<ExtendedTheme>` | no       |                         |
 
 </div>
+
+Any other props will be provided to the root element ([**View**](https://reactnative.dev/docs/view)).
 
 ### Styles
 
 You can override the internal styles used by Brightlayer UI by passing a `styles` prop. It supports the following keys:
 
-| Name  | Description                         |
-| ----- | ----------------------------------- |
-| root  | Styles applied to the root element  |
-| units | Styles applied to the units element |
-| value | Styles applied to the value element |
+| Name        | Description                               |
+| ----------- | ----------------------------------------- |
+| root        | Styles applied to the root element        |
+| title       | Styles applied to the title element       |
+| description | Styles applied to the description element |
+| actions     | Styles applied to the actions element     |
