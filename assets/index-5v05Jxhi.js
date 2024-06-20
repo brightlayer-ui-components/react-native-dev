@@ -688,11 +688,11 @@ Supported values: ["extend", "clamp", "identity", Extrapolatation.CLAMP, Extrapo
 <Grade.DPlus/>
 <Grade.D/>
 <Grade.DMinus/>
-<Grade.F/>`,Khn=()=>s.jsxs(ce,{children:[s.jsx(Xhn,{}),s.jsx(Ct,{code:dge,language:"jsx"}),s.jsx(Et,{copyText:dge,url:"componentDocs/Grade/examples/GradeExample.tsx"})]}),Qhn=()=>s.jsx(Ot,{sx:{display:"flex",justifyContent:"center"},children:s.jsx(ge.Grade,{label:"AB",fontColor:"#ff0",backgroundColor:"#f00"})}),fge=`<Grade 
-      label="AB"
-      fontColor="#ff0"
-      backgroundColor="#f00"
-    />`,Jhn=()=>s.jsxs(ce,{children:[s.jsx(Qhn,{}),s.jsx(Ct,{code:fge,language:"jsx",dataLine:"3-4"}),s.jsx(Et,{copyText:fge,url:"componentDocs/Grade/examples/GradeCustomColourExample.tsx"})]});function hge(e){const t={code:"code",h2:"h2",p:"p",...Be(),...e.components};return s.jsxs(s.Fragment,{children:[s.jsx(t.h2,{children:"Grade Presets"}),`
+<Grade.F/>`,Khn=()=>s.jsxs(ce,{children:[s.jsx(Xhn,{}),s.jsx(Ct,{code:dge,language:"jsx"}),s.jsx(Et,{copyText:dge,url:"componentDocs/Grade/examples/GradeExample.tsx"})]}),Qhn=()=>s.jsx(Ot,{sx:{display:"flex",justifyContent:"center"},children:s.jsx(ge.Grade,{label:"AB",fontColor:"#ffff00",backgroundColor:"#ff0000"})}),fge=`<Grade 
+  label="AB"
+  fontColor="#ffff00"
+  backgroundColor="#ff0000"
+/>`,Jhn=()=>s.jsxs(ce,{children:[s.jsx(Qhn,{}),s.jsx(Ct,{code:fge,language:"jsx"}),s.jsx(Et,{copyText:fge,url:"componentDocs/Grade/examples/GradeCustomColourExample.tsx"})]});function hge(e){const t={code:"code",h2:"h2",p:"p",...Be(),...e.components};return s.jsxs(s.Fragment,{children:[s.jsx(t.h2,{children:"Grade Presets"}),`
 `,s.jsxs(t.p,{children:["The ",s.jsx(t.code,{children:"<Grade>"})," component comes with several presets — we recommending using these whenever possible to maintain alignment with other products."]}),`
 `,s.jsx(Khn,{}),`
 `,s.jsx(t.h2,{children:"Customizing the Colors"}),`
