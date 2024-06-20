@@ -725,7 +725,7 @@ Supported values: ["extend", "clamp", "identity", Extrapolatation.CLAMP, Extrapo
 `,s.jsx(spn,{})]})}function cpn(e={}){const{wrapper:t}={...Be(),...e.components};return t?s.jsx(t,{...e,children:s.jsx(mge,{...e})}):mge(e)}const upn=()=>s.jsx(Ct,{children:s.jsx(me.Header,{style:{width:350,margin:"auto"},title:"Valley Forge",subtitle:"The Last Stand"})}),gge=`<Header
     title={'Valley Forge'}
     subtitle={'The Last Stand'}
-/>`,dpn=()=>s.jsxs(le,{children:[s.jsx(upn,{}),s.jsx(St,{code:gge,language:"jsx"}),s.jsx(xt,{copyText:gge,url:"componentDocs/Header/examples/HeaderExample.tsx"})]}),fpn=()=>s.jsx(Ct,{children:s.jsx(me.Header,{style:{width:350,margin:"auto"},title:"Valley Forge",subtitle:"The Last Stand",backgroundImage:Tcr,styles:{backgroundImage:{width:"100%"}}})}),yge=`<Header
+/>`,dpn=()=>s.jsxs(le,{children:[s.jsx(upn,{}),s.jsx(St,{code:gge,language:"jsx"}),s.jsx(xt,{copyText:gge,url:"componentDocs/Header/examples/HeaderExample.tsx"})]}),fpn=()=>s.jsx(Ct,{children:s.jsx(me.Header,{style:{width:350,margin:"auto"},title:"Valley Forge",subtitle:"The Last Stand",backgroundImage:{uri:Tcr},styles:{backgroundImage:{width:"100%"}}})}),yge=`<Header
     title={'Valley Forge'}
     subtitle={'The Last Stand'}
     backgroundImage={BackgroundImage}
