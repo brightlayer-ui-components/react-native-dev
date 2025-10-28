@@ -2155,23 +2155,23 @@ onDismiss={() => console.log('close')}
     <IconSwitch value={switch2} onValueChange={setSwitch2} />
   </View>
   <View style={{ padding: 10 }}>
-    <IconSwitch value={false} disabled onValueChange={() => {}} />
+    <IconSwitch value={false} disabled={true} onValueChange={() => {}} />
   </View>
   <View style={{ padding: 10 }}>
-    <IconSwitch value={true} disabled onValueChange={() => {}} />
+    <IconSwitch value={true} disabled={true} onValueChange={() => {}} />
   </View>
 </View>`,oCr=()=>a.jsxs(We,{children:[a.jsx(nCr,{}),a.jsx(yt,{code:Z6e,language:"jsx",dataLine:"3,6,9,12"}),a.jsx(cr,{copyText:Z6e,url:"componentDocs/IconSwitch/examples/IconSwitchExample.tsx"})]}),aCr=()=>{const[t,e]=S.useState(!1),[r,o]=S.useState(!0);return a.jsx(pr,{sx:{display:"flex",justifyContent:"center"},children:a.jsxs($e,{style:{flexDirection:"column"},children:[a.jsx($e,{style:{padding:10},children:a.jsx(Oh,{value:t,showIcon:!0,onValueChange:e})}),a.jsx($e,{style:{padding:10},children:a.jsx(Oh,{value:r,showIcon:!0,onValueChange:o})}),a.jsx($e,{style:{padding:10},children:a.jsx(Oh,{value:!1,disabled:!0,showIcon:!0,onValueChange:()=>{}})}),a.jsx($e,{style:{padding:10},children:a.jsx(Oh,{value:!0,disabled:!0,showIcon:!0,onValueChange:()=>{}})})]})})},G6e=`<View style={{ flexDirection: 'column' }}>
   <View style={{ padding: 10 }}>
-    <IconSwitch value={switch1} showIcon onValueChange={setSwitch1} />
+    <IconSwitch value={switch1} showIcon={true} onValueChange={setSwitch1} />
   </View>
   <View style={{ padding: 10 }}>
-    <IconSwitch value={switch2} showIcon onValueChange={setSwitch2} />
+    <IconSwitch value={switch2} showIcon={true} onValueChange={setSwitch2} />
   </View>
   <View style={{ padding: 10 }}>
-    <IconSwitch value={false} disabled showIcon onValueChange={() => {}} />
+    <IconSwitch value={false} disabled={true} showIcon={true} onValueChange={() => {}} />
   </View>
   <View style={{ padding: 10 }}>
-    <IconSwitch value={true} disabled showIcon onValueChange={() => {}} />
+    <IconSwitch value={true} disabled={true} showIcon={true} onValueChange={() => {}} />
   </View>
 </View>`,iCr=()=>a.jsxs(We,{children:[a.jsx(aCr,{}),a.jsx(yt,{code:G6e,language:"jsx",dataLine:"3,6,9,12"}),a.jsx(cr,{copyText:G6e,url:"componentDocs/IconSwitch/examples/IconSwitchWithIconExample.tsx"})]});function K6e(t){const e={code:"code",h2:"h2",p:"p",...it(),...t.components};return a.jsxs(a.Fragment,{children:[a.jsx(e.h2,{children:"Icon Switch"}),`
 `,a.jsxs(e.p,{children:["The basic ",a.jsx(e.code,{children:"<IconSwitch />"})," shows a standard switch without any icons."]}),`
@@ -3061,7 +3061,10 @@ Error generating stack: `+H.message+`
     ${t.expandIcon!=="undefined"?`expandIcon={${Zbe(t.expandIcon)}}`:""}
 />`.replace(/^\s*$(?:\r\n?|\n)/gm,"").replace(/(?:^|)( {4}|\t)/gm,"    "),lBr=()=>a.jsx(We,{sx:{width:"100%",height:{xs:"calc(100vh - 105px)",sm:"calc(100vh - 113px)"}},children:a.jsx(hl,{inputConfig:HDe,codeSnippet:iBr,previewComponent:rBr})}),UDe=[{id:"showIcon",type:"boolean",typeLabel:"boolean",description:"To display icon or not",required:!1,initialValue:!1,defaultValue:!1,category:"Optional Props"},{id:"disabled",type:"boolean",typeLabel:"boolean",description:"Flag for render disabled switch",required:!1,initialValue:!1,defaultValue:!1,category:"Optional Props"},{id:"value",type:"boolean",typeLabel:"boolean",description:"Pass state to the component",required:!1,initialValue:!1,defaultValue:!1,category:"Optional Props"}],sBr=({data:t})=>{const{value:e,...r}=t;return a.jsx(Qa,{alignItems:"center",justifyContent:"center",sx:{width:"100%",height:"100%"},children:a.jsx(Oh,{...r,value:e?!0:void 0})})},cBr=t=>`<IconSwitch
     ${pl(fl(t,UDe),{join:`
-	`})}
+	`,skip:["value","showIcon","disabled"]})}
+    ${t.showIcon?"showIcon={true}":""}
+    ${t.disabled?"disabled={true}":""}
+    ${t.value?"value={true}":""}
 ></IconSwitch>`.replace(/^\s*$(?:\r\n?|\n)/gm,""),uBr=()=>a.jsx(We,{sx:{width:"100%",height:{xs:"calc(100vh - 105px)",sm:"calc(100vh - 113px)"}},children:a.jsx(hl,{inputConfig:UDe,codeSnippet:cBr,previewComponent:sBr})}),WDe=[{id:"menuTitle",type:"string",typeLabel:"string",description:"Title shown when menu is open",required:!1,initialValue:"Menu Title",category:"Optional Props"},{id:"menuSubtitle",type:"string",typeLabel:"string",description:"Subtitle shown when menu is open",required:!1,initialValue:"Menu Subtitle",category:"Optional Props"},{id:"backgroundColor",type:"color",typeLabel:"string",description:"Background color of the bottom sheet",required:!1,initialValue:"",category:"Optional Props"},{id:"fontColor",type:"color",typeLabel:"string",description:"Color of text for the bottom sheet header and menu items",required:!1,initialValue:"",category:"Optional Props"},{id:"iconColor",type:"color",typeLabel:"string",description:"Color of icons for the bottom sheet menu items",required:!1,initialValue:"",category:"Optional Props"},{id:"imageAvatar",label:"Image Avatar",type:"boolean",description:"Use image avatar instead of text",required:!1,initialValue:!1,category:"Other Configuration"}],dBr=({data:t})=>{const{imageAvatar:e,...r}=t;return a.jsx(Qa,{alignItems:"center",justifyContent:"center",sx:{width:"100%",height:"100%"},children:a.jsx(eC,{...kg(r),avatar:e?a.jsx(HI,{source:{uri:iMe}}):a.jsx(V6,{size:40,label:"AV"}),menuItems:[{title:"Settings",icon:{name:"settings"},onPress:()=>{}},{title:"Contact Us",icon:{name:"email"},onPress:()=>{}},{title:"Log Out",icon:{name:"exit-to-app"},onPress:()=>{}}]})})},fBr=t=>`<UserMenu 
     ${pl(fl(t,WDe),{join:`
 	`,skip:["imageAvatar"]})}
